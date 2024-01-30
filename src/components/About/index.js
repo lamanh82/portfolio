@@ -1,5 +1,5 @@
 import React from "react";
-import avatar from "../../img/avatar.jpeg";
+import avatar from "../../img/avatar.png";
 import StaticData from "../../common/StaticData";
 import { info } from "../Contact";
 

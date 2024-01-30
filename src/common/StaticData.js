@@ -116,7 +116,7 @@ const StaticData = {
                     {
                         id: "f-1-0",
                         icon: SiSpringboot,
-                        name: "Sprint Boot",
+                        name: "Spring Boot",
                     },
                     {
                         id: "f-1-1",
