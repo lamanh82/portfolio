@@ -101,6 +101,7 @@ const Navbar = () => {
                         <NavItem target="about" label="About" />
                         <NavItem target="skills" label="Skills & Experience" />
                         <NavItem target="education" label="Education" />
+                        <NavItem target="blog" label="Blogs" />
                         <NavItem target="contact" label="Contact" />
                     </ul>
                 </div>

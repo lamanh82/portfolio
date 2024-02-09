@@ -15,7 +15,7 @@ const ExternalLink = ({ href, children }) => (
 class Blog extends React.Component {
     render() {
         return (
-            <section id="block" className="about-mf sect-pt4 route">
+            <section id="blog" className="about-mf sect-pt4 route">
                 <div className="container">
                     <div className="row">
                         <div className="col-sm-12">
@@ -23,6 +23,13 @@ class Blog extends React.Component {
                                 <div className="row about-me">
                                     <div className="col-md-12">
                                         <div className="pt-4 pt-md-0">
+                                            <div className="title-box-2">
+                                                <h5 className="title title-center">
+                                                    <ExternalLink href="https://blog.aaanh.com/">
+                                                        Anh H Nguyen's Blog
+                                                    </ExternalLink>
+                                                </h5>
+                                            </div>
                                             <div className="title-box-2">
                                                 <h5 className="title title-left">
                                                     This website's infrastructure
