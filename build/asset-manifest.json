@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.619f3cda.css",
+    "main.js": "/static/js/main.7deba13d.js",
+    "static/media/avatar.png": "/static/media/avatar.6c9336cc8f45fc41b981.png",
+    "static/media/bk.jpeg": "/static/media/bk.1763158bb72997d2e6c7.jpeg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/ionicons.svg?v=2.0.0": "/static/media/ionicons.3998f78fa294d2b835b7.svg",
+    "static/media/ionicons.ttf?v=2.0.0": "/static/media/ionicons.1fa6a1e8581aaedf7344.ttf",
+    "static/media/bg.jpg": "/static/media/bg.fea5cc486f7eab174578.jpg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/maharishi.png": "/static/media/maharishi.54dcb7091108b9399af7.png",
+    "static/media/ionicons.eot?v=2.0.0": "/static/media/ionicons.68e3a4f9a8d8c679b4ae.eot",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/workflow.svg": "/static/media/workflow.bed67c83db4c95cf3a5b246b8dda79a1.svg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/ionicons.woff?v=2.0.0": "/static/media/ionicons.0b4ad6170d93c4aa91ee.woff",
+    "static/media/logo.svg": "/static/media/logo.efc4feff49b55d5e4462d4d88019b127.svg",
+    "static/media/logo2.svg": "/static/media/logo2.7e2718e99eb33cf366ed703670c90767.svg",
+    "static/media/nash.jpeg": "/static/media/nash.0814ba13854fe40d3712.jpeg",
+    "static/media/hitachi.png": "/static/media/hitachi.103e71eba62840a94f2d.png",
+    "static/media/nankai.svg": "/static/media/nankai.ae385c34a627cdb684c61733056a2e81.svg",
+    "index.html": "/index.html",
+    "main.619f3cda.css.map": "/static/css/main.619f3cda.css.map",
+    "main.7deba13d.js.map": "/static/js/main.7deba13d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.619f3cda.css",
+    "static/js/main.7deba13d.js"
+  ]
+}

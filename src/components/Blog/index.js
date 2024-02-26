@@ -24,13 +24,6 @@ class Blog extends React.Component {
                                     <div className="col-md-12">
                                         <div className="pt-4 pt-md-0">
                                             <div className="title-box-2">
-                                                <h5 className="title title-center">
-                                                    <ExternalLink href="https://blog.aaanh.com/">
-                                                        Anh H Nguyen's Blog
-                                                    </ExternalLink>
-                                                </h5>
-                                            </div>
-                                            <div className="title-box-2">
                                                 <h5 className="title title-left">
                                                     This website's infrastructure
                                                 </h5>
